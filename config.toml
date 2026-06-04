@@ -1,0 +1,22 @@
+onboarding = false
+
+[keys]
+prefix = "ctrl+a"
+
+workspace_picker = "prefix+w"
+switch_tab = "prefix+1..9"
+
+focus_pane_left = "prefix+h"
+focus_pane_down = "prefix+j"
+focus_pane_up = "prefix+k"
+focus_pane_right = "prefix+l"
+
+navigate_pane_left = "h"
+navigate_pane_down = ""
+navigate_pane_up = ""
+navigate_pane_right = "l"
+navigate_workspace_down = "j"
+navigate_workspace_up = "k"
+
+[ui]
+agent_panel_scope = "all"
