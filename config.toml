@@ -20,6 +20,3 @@ navigate_pane_up = ""
 navigate_pane_right = "l"
 navigate_workspace_down = "j"
 navigate_workspace_up = "k"
-
-[ui]
-agent_panel_scope = "all"
